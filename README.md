@@ -3,7 +3,7 @@
 
 [![badge](https://img.shields.io/badge/license-Apache-brightgreen)](https://opensource.org/licenses/Apache)<br />
 
-![alt deployed app screenshot](https://jate-on-web-xgt1.onrender.com/assets/images/SS-2024-02-10.png)
+![alt deployed app screenshot](https://chuckiecodes.github.io/weather-app/assets/images/SS-2024-02-10.png)
 <br />
 
 ## Description
